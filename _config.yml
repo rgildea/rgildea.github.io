@@ -1,3 +1,7 @@
 theme: jekyll-theme-tactile
 title: Project Notes
 description: This is a scratch pad for me to keep notes and share content with work colleagues.
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: rgildea/hpstr-jekyll-theme
